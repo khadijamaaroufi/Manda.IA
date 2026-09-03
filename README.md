@@ -7,7 +7,7 @@
 > through AI-powered conversations and personalized financial planning.
 
 <p align="center">
-  <img src="assets/home.jpeg" width="850">
+  <img src="assets/home.jpeg" width="600">
 </p>
 
 ---
@@ -151,7 +151,7 @@ It can include:
 ## 🏠 Welcome Page
 
 <p align="center">
-  <img src="assets/home.jpeg" width="850">
+  <img src="assets/home.jpeg" width="600">
 </p>
 
 The welcome page introduces the manda.IA experience and its main purpose:
@@ -162,7 +162,7 @@ helping users transform their salary into a clear financial plan.
 ## 🔐 Authentication
 
 <p align="center">
-  <img src="assets/login.jpeg" width="700">
+  <img src="assets/login.jpeg" width="500">
 </p>
 
 Users can securely access their personal financial space through the
@@ -173,7 +173,7 @@ authentication interface.
 ## 📊 Dashboard
 
 <p align="center">
-  <img src="assets/dashboard.jpeg" width="850">
+  <img src="assets/dashboard.jpeg" width="600">
 </p>
 
 The dashboard provides a visual overview of the user's financial situation,
@@ -184,7 +184,7 @@ objectives, and recent activity.
 ## 💬 Chat with Manda
 
 <p align="center">
-  <img src="assets/chatbot.jpeg" width="850">
+  <img src="assets/chatbot.jpeg" width="600">
 </p>
 
 The conversational interface is at the heart of manda.IA.
@@ -197,7 +197,7 @@ manually navigating through complex financial tools.
 # 🏗️ System Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="950">
+  <img src="assets/architecture.png" width="650">
 </p>
 
 manda.IA follows a modular architecture separating the conversational
