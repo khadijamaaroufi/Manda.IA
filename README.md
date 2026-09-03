@@ -49,7 +49,7 @@ L'assistant comprend la demande, identifie l'objectif, fait les calculs nécessa
 ### Page d'accueil
 
 <p align="center">
-  <img src="assets/home.jpeg" width="600">
+  <img src="assets/home.jpeg" width="400">
 </p>
 
 La page d'accueil présente rapidement ce que fait manda.IA et l'idée générale du projet : transformer un salaire en un plan financier clair.
@@ -57,7 +57,7 @@ La page d'accueil présente rapidement ce que fait manda.IA et l'idée général
 ### Connexion
 
 <p align="center">
-  <img src="assets/login.jpeg" width="500">
+  <img src="assets/login.jpeg" width="400">
 </p>
 
 Chaque utilisateur accède à son espace personnel de manière sécurisée.
@@ -65,7 +65,7 @@ Chaque utilisateur accède à son espace personnel de manière sécurisée.
 ### Tableau de bord
 
 <p align="center">
-  <img src="assets/dashboard.jpeg" width="600">
+  <img src="assets/dashboard.jpeg" width="400">
 </p>
 
 Le tableau de bord donne une vue d'ensemble : situation financière, objectifs en cours, progression, activité récente.
@@ -73,7 +73,7 @@ Le tableau de bord donne une vue d'ensemble : situation financière, objectifs e
 ### Discussion avec Manda
 
 <p align="center">
-  <img src="assets/chatbot.jpeg" width="600">
+  <img src="assets/chatbot.jpeg" width="400">
 </p>
 
 C'est ici que se passe l'essentiel : l'utilisateur discute directement avec l'assistant au lieu de naviguer dans des menus.
@@ -81,7 +81,7 @@ C'est ici que se passe l'essentiel : l'utilisateur discute directement avec l'as
 ## Architecture du système
 
 <p align="center">
-  <img src="assets/architecture.png" width="650">
+  <img src="assets/architecture.png" width="450">
 </p>
 
 Un principe important dans la conception de manda.IA : séparer la compréhension du langage naturel des calculs financiers eux-mêmes. Concrètement, l'architecture s'organise ainsi :
