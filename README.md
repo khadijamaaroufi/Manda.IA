@@ -1,209 +1,92 @@
-# 💰 manda.IA
+# manda.IA
 
-### Your salary. Your goals. Your plan.
+**Ton salaire. Tes objectifs. Ton plan.**
 
-> **manda.IA** is an intelligent personal finance assistant designed to help users
-> manage their salary, control their expenses, and achieve their financial goals
-> through AI-powered conversations and personalized financial planning.
+manda.IA est un assistant financier personnel basé sur l'intelligence artificielle. Le but est simple : aider les gens à mieux gérer leur salaire, suivre leurs dépenses et atteindre leurs objectifs financiers, sans avoir à jongler avec des tableaux Excel ou des applications compliquées.
 
 <p align="center">
   <img src="assets/home.jpeg" width="600">
 </p>
 
----
+## D'où vient le nom
 
-## 🧠 About the Project
+"Manda" vient du darija marocain et désigne le salaire. Ce nom reflète l'idée centrale du projet : partir de ce que les gens gagnent réellement chaque mois pour les aider à mieux organiser leur argent au quotidien.
 
-**manda.IA** is an AI-powered personal finance assistant designed to make
-financial management simpler, more intuitive, and more personalized.
+## Le problème de départ
 
-The name **"Manda"** comes from Moroccan Darija and refers to **salary**,
-reflecting the project's focus on everyday personal financial management.
+La plupart des gens ne manquent pas d'outils pour suivre leur argent, ils manquent de clarté. On se retrouve souvent avec des questions simples auxquelles on n'a pas vraiment de réponse :
 
-Instead of forcing users to work with complex financial tools, manda.IA
-allows them to simply **talk about their money, their needs, and their goals**.
+- Où part mon argent chaque mois ?
+- Combien je peux réellement mettre de côté ?
+- Est-ce que je peux me permettre cet achat ?
+- Combien de temps il me faudra pour atteindre mon objectif ?
+- Est-ce que je progresse vraiment, ou je tourne en rond ?
 
-The assistant can help users understand their financial situation, manage
-their expenses, define objectives, build saving plans, and track their progress.
+Les applications de finance classiques se contentent souvent d'afficher des chiffres et des graphiques, sans vraiment dire à l'utilisateur ce qu'il devrait faire ensuite. C'est ce vide que manda.IA essaie de combler.
 
-### The idea
+## Comment ça fonctionne
 
-```text
-Talk about your finances
-          ↓
-Understand your situation
-          ↓
-Analyze your financial data
-          ↓
-Build a personalized plan
-          ↓
-Track your progress
-```
+L'idée de manda.IA, c'est de mettre la conversation au centre de l'expérience. Plutôt que de remplir des formulaires ou de naviguer entre plusieurs écrans, l'utilisateur peut simplement décrire sa situation à l'assistant, en langage naturel.
 
----
+Par exemple, quelqu'un peut écrire :
 
-# 🎯 The Problem
+> "Je gagne 8000 DH par mois et je veux acheter une voiture à 120 000 DH."
 
-Managing a salary is not only about recording expenses.
+L'assistant comprend la demande, identifie l'objectif, fait les calculs nécessaires, et propose une stratégie d'épargne réaliste adaptée à la situation de la personne.
 
-People often ask themselves:
+## Ce que l'application permet de faire
 
-* 💸 Where does my money go?
-* 💰 How much can I save every month?
-* 🎯 Can I afford my next goal?
-* 📅 How long will it take to reach it?
-* 📊 Am I actually making progress?
-* 🧮 How should I distribute my salary?
+**Discuter avec l'assistant** — poser des questions sur ses finances, décrire sa situation, demander des conseils ou des simulations d'épargne, tout ça en langage naturel.
 
-Traditional financial applications often focus on displaying numbers,
-but they do not necessarily help users **understand what they should do next**.
+**Créer et suivre des objectifs financiers** — acheter une voiture, une maison, préparer un voyage, financer des études, se constituer une épargne de sécurité. Chaque objectif peut être suivi dans le temps avec sa progression.
 
----
+**Gérer ses dépenses** — enregistrer ce qu'on dépense pour mieux comprendre où va son salaire, et s'en servir pour prendre de meilleures décisions plutôt que de simplement constater les chiffres après coup.
 
-# 💡 The Solution
+**Consulter un tableau de bord** — une vue d'ensemble de la situation financière : revenus, dépenses, épargne, objectifs en cours, activité récente.
 
-**manda.IA puts an intelligent assistant at the center of personal finance.**
+## Aperçu de l'interface
 
-The user can communicate naturally with Manda and describe their situation
-or financial objectives.
-
-For example:
-
-> **"I earn 8,000 MAD per month and I want to buy a car for 120,000 MAD."**
-
-Manda can understand the request, identify the financial objective,
-analyze the available information, perform the necessary calculations,
-and help the user build a realistic saving strategy.
-
-The system combines:
-
-```text
-🤖 AI Conversation
-        +
-💰 Financial Reasoning
-        +
-🎯 Goal Planning
-        +
-📊 Progress Tracking
-```
-
----
-
-# ✨ Key Features
-
-## 🤖 AI Financial Assistant
-
-Interact naturally with Manda to:
-
-* Ask financial questions
-* Describe your financial situation
-* Get personalized recommendations
-* Receive saving strategies
-* Understand financial decisions
-* Build financial plans
-
----
-
-## 🎯 Financial Goal Management
-
-Users can create and track different financial objectives, such as:
-
-* 🚗 Buying a car
-* 🏠 Buying a house
-* ✈️ Planning a trip
-* 🎓 Education
-* 🛟 Emergency fund
-* 💰 Personal savings
-
-Each objective can be monitored through its progress and financial
-planning information.
-
----
-
-## 💸 Expense Management
-
-Users can record and manage their expenses in order to better understand
-where their salary is going.
-
-The goal is not only to track expenses, but also to use this information
-to support better financial decisions.
-
----
-
-## 📊 Financial Dashboard
-
-The dashboard provides a centralized view of the user's financial activity.
-
-It can include:
-
-* 💵 Income
-* 💸 Expenses
-* 💰 Savings
-* 🎯 Financial goals
-* 📈 Goal progression
-* 🕒 Recent activity
-* 📊 Financial analysis
-
----
-
-# 🖥️ User Interface
-
-## 🏠 Welcome Page
+### Page d'accueil
 
 <p align="center">
   <img src="assets/home.jpeg" width="600">
 </p>
 
-The welcome page introduces the manda.IA experience and its main purpose:
-helping users transform their salary into a clear financial plan.
+La page d'accueil présente rapidement ce que fait manda.IA et l'idée générale du projet : transformer un salaire en un plan financier clair.
 
----
-
-## 🔐 Authentication
+### Connexion
 
 <p align="center">
   <img src="assets/login.jpeg" width="500">
 </p>
 
-Users can securely access their personal financial space through the
-authentication interface.
+Chaque utilisateur accède à son espace personnel de manière sécurisée.
 
----
-
-## 📊 Dashboard
+### Tableau de bord
 
 <p align="center">
   <img src="assets/dashboard.jpeg" width="600">
 </p>
 
-The dashboard provides a visual overview of the user's financial situation,
-objectives, and recent activity.
+Le tableau de bord donne une vue d'ensemble : situation financière, objectifs en cours, progression, activité récente.
 
----
-
-## 💬 Chat with Manda
+### Discussion avec Manda
 
 <p align="center">
   <img src="assets/chatbot.jpeg" width="600">
 </p>
 
-The conversational interface is at the heart of manda.IA.
+C'est ici que se passe l'essentiel : l'utilisateur discute directement avec l'assistant au lieu de naviguer dans des menus.
 
-Users can communicate with the assistant using natural language rather than
-manually navigating through complex financial tools.
-
----
-
-# 🏗️ System Architecture
+## Architecture du système
 
 <p align="center">
   <img src="assets/architecture.png" width="650">
 </p>
 
-manda.IA follows a modular architecture separating the conversational
-AI layer from the financial business logic and data persistence layer.
+Un principe important dans la conception de manda.IA : séparer la compréhension du langage naturel des calculs financiers eux-mêmes. Concrètement, l'architecture s'organise ainsi :
 
-```text
+```
                          ┌──────────────────┐
                          │      USER        │
                          │   Web / Mobile   │
@@ -229,87 +112,55 @@ AI layer from the financial business logic and data persistence layer.
           │          │    │    Engine    │   │          │
           └────┬─────┘    └──────┬───────┘   └────┬─────┘
                │                 │                │
-               │                 │                │
                └─────────────────┼────────────────┘
                                  │
                                  ▼
-                         Personalized
-                            Response
+                         Réponse personnalisée
 ```
 
----
+### Pourquoi séparer le LLM du moteur financier
 
-# 🧠 LLM + Financial Engine
+Le modèle de langage (LLM) s'occupe de comprendre ce que dit l'utilisateur, d'identifier son intention et d'extraire les informations utiles (montant du salaire, objectif, délai, etc.). Ensuite, il reformule les résultats en une réponse naturelle et compréhensible.
 
-One of the main architectural principles of manda.IA is the separation
-between **natural language processing** and **financial calculations**.
+Le moteur financier, lui, s'occupe de tout ce qui touche aux calculs : simulations d'épargne, projections, analyse du budget. L'idée derrière cette séparation est simple : on ne veut pas laisser un modèle de langage faire des calculs financiers tout seul, au risque de se tromper. Les calculs passent donc par une logique déterministe et fiable, pendant que le LLM se concentre sur ce qu'il fait de mieux, comprendre et générer du texte.
 
-The LLM is responsible for:
+Voici à quoi ressemble le trajet d'une demande, du message de l'utilisateur jusqu'à la réponse finale :
 
-* Understanding natural language
-* Identifying user intent
-* Extracting relevant information
-* Generating natural responses
-
-The **Financial Engine** is responsible for:
-
-* Financial calculations
-* Budget analysis
-* Saving simulations
-* Goal planning
-* Financial projections
-
-This separation avoids relying on the LLM alone for numerical financial
-calculations.
-
-### Example flow
-
-```text
-User
- │
- │ "I earn 8,000 MAD and want to save 30,000 MAD."
- ▼
-LLM
- │
- │ Intent + financial information
- ▼
-Financial Engine
- │
- │ Calculations / simulations
- ▼
-Financial Results
- │
- ▼
-LLM
- │
- │ Natural language generation
- ▼
-Personalized Recommendation
+```
+Utilisateur
+     │
+     │ "Je gagne 8000 DH et je veux épargner 30 000 DH."
+     ▼
+LLM (compréhension)
+     │
+     │ Intention + informations financières extraites
+     ▼
+Moteur financier (calculs)
+     │
+     │ Simulation d'épargne
+     ▼
+LLM (génération)
+     │
+     ▼
+Réponse personnalisée pour l'utilisateur
 ```
 
-This architecture combines the flexibility of an LLM with the reliability
-of deterministic financial calculations.
+## Technologies utilisées
 
----
+| Technologie | Rôle |
+|---|---|
+| Python | Backend et logique métier |
+| FastAPI | API REST |
+| React | Interface utilisateur |
+| Next.js | Framework frontend |
+| LLM | Compréhension et génération du langage naturel |
+| OpenAI API | Capacités d'intelligence artificielle |
+| Base de données | Stockage des données utilisateurs et financières |
+| Moteur financier | Calculs et simulations financières |
 
-# 🛠️ Technology Stack
+## Structure du projet
 
-| Technology              | Role                                          |
-| ------------------------ | --------------------------------------------- |
-| 🐍 **Python**           | Backend and business logic                    |
-| ⚡ **FastAPI**           | REST API                                      |
-| ⚛️ **React**            | User interface                                |
-| ▲ **Next.js**           | Frontend framework                            |
-| 🧠 **LLM**              | Natural language understanding and generation |
-| 🔌 **OpenAI API**       | AI capabilities                               |
-| 🗄️ **Database**        | User and financial data                       |
-| 💰 **Financial Engine** | Financial calculations and simulations        |
-
----
-
-# 📂 Project Structure
-
-```text
+```
 manda.IA/
 │
 ├── manda_backend/
@@ -353,165 +204,89 @@ manda.IA/
 └── README.md
 ```
 
----
+## Installation et démarrage
 
-# 🚀 Getting Started
-
-## 1. Clone the repository
+### 1. Cloner le dépôt
 
 ```bash
 git clone https://github.com/khadijamaaroufi/Manda.IA.git
 cd Manda.IA
 ```
 
----
+### 2. Mettre en place le backend
 
-# ⚙️ Backend Setup
-
-Navigate to the backend:
+Se déplacer dans le dossier backend :
 
 ```bash
 cd manda_backend
 ```
 
-Create a virtual environment:
+Créer un environnement virtuel :
 
 ```bash
 python -m venv venv
 ```
 
-### Windows
-
-Activate the environment:
+L'activer (sous Windows) :
 
 ```bash
 venv\Scripts\activate
 ```
 
-Install the dependencies:
+Installer les dépendances :
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Create a `.env` file and add the required environment variables.
-
-Example:
+Créer un fichier `.env` avec les variables nécessaires, par exemple :
 
 ```env
-OPENAI_API_KEY=your_api_key
+OPENAI_API_KEY=votre_clé_api
 ```
 
-Run the FastAPI server:
+Lancer le serveur :
 
 ```bash
 uvicorn main:app --reload
 ```
 
-The API will be available locally at:
+L'API sera accessible sur `http://127.0.0.1:8000`.
 
-```text
-http://127.0.0.1:8000
-```
+### 3. Mettre en place le frontend
 
----
-
-# 🎨 Frontend Setup
-
-Open another terminal and navigate to:
+Dans un autre terminal :
 
 ```bash
 cd manda-frontend
-```
-
-Install the dependencies:
-
-```bash
 npm install
-```
-
-Start the development server:
-
-```bash
 npm run dev
 ```
 
-The frontend will be available locally at:
+Le frontend sera accessible sur `http://localhost:3000`.
 
-```text
-http://localhost:3000
-```
+## À propos des clés API
 
----
+Pour des raisons évidentes de sécurité, le fichier `.env` et les clés API ne sont pas inclus dans ce dépôt. Il faut créer son propre fichier `.env` en local et ne jamais le committer.
 
-# 🔐 Environment Variables
+## Pistes d'évolution
 
-For security reasons, API keys and sensitive credentials are **not included**
-in this repository.
+Le projet peut encore évoluer dans plusieurs directions :
 
-Create your own `.env` file locally.
+- Rapports financiers plus détaillés
+- Stratégies d'épargne encore plus personnalisées
+- Notifications intelligentes
+- Résumés financiers mensuels
+- Interaction vocale
+- Application mobile
+- Intégration Open Banking
+- Déploiement en production
 
-Example:
+## L'idée derrière le projet
 
-```env
-OPENAI_API_KEY=your_api_key
-```
+Le but n'est pas d'ajouter un énième tableau de bord financier compliqué, mais de rendre la gestion de son argent plus accessible, en mettant la conversation au centre de l'expérience. Comprendre sa situation, se fixer des objectifs réalistes, et suivre sa progression, sans complexité inutile.
 
-> Never commit your `.env` file or expose your API keys publicly.
-
----
-
-# 🔮 Roadmap
-
-The project can be extended with several features:
-
-* [ ] Advanced financial reports
-* [ ] More personalized saving strategies
-* [ ] Smart financial notifications
-* [ ] Advanced financial analytics
-* [ ] Monthly financial summaries
-* [ ] Voice interaction
-* [ ] Mobile application
-* [ ] Open Banking integration
-* [ ] External financial services
-* [ ] Production deployment
-
----
-
-# 🎯 Vision
-
-The vision behind **manda.IA** is to make personal financial management
-more accessible, intelligent, and intuitive.
-
-Instead of giving users another complex financial dashboard,
-**manda.IA puts the conversation at the center of the experience.**
-
-The objective is simple:
-
-```text
-Understand your money.
-        ↓
-Plan your goals.
-        ↓
-Make better decisions.
-        ↓
-Track your progress.
-```
-
----
-
-# 👩‍💻 Author
+## Auteur
 
 **Khadija Maaroufi**
-
-AI Engineering Project — 2026
-
----
-
-<p align="center">
-
-### 💰 Your salary. Your goals. Your plan.
-
-**Powered by AI.**
-
-</p>
+Projet d'ingénierie IA — 2026
